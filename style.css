@@ -1,0 +1,45 @@
+body{
+    font-weight: 100;
+    margin: 10;
+    background-color: rgb(255, 253, 253);
+    color: #3f3e3e;
+
+}
+
+h1{
+    text-align: center;
+}
+.bienvenida{
+    text-align: center;
+
+}
+section{
+    background-color: white;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 15px;
+}
+.imagen{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+.imagen img{
+    width: 150px;
+    
+}
+.deportes{
+    text-align: center;
+}
+.intro{
+    text-align: center;
+}
+
+.rayados{
+    color:rgb(25, 25, 104);
+}
+
+.steelers{
+    color:rgb(7, 7, 2);
+}
