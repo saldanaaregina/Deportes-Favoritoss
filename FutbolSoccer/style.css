@@ -1,0 +1,14 @@
+
+h1{
+    text-align: center;
+}
+
+.fut{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.fut img{
+    width:250px;
+}
