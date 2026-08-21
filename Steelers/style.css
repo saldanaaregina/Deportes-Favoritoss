@@ -1,0 +1,21 @@
+
+h1{
+    text-align: center;
+    width: 100%;
+}
+
+.stee{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.stee img{
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
+
+
+
